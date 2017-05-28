@@ -1,6 +1,8 @@
 # BufferPulseTrainHatPickPlace
 Pulse Train Hat Pick and Place Example
 
+![alt tag](https://i0.wp.com/pthat.com/wp-content/uploads/2017/04/feature.png)
+
 Pulse Train Hat for the Raspberry Pi
 
 Examples for the PTHAT http://www.pthat.com
